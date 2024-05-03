@@ -2,7 +2,7 @@
 - 👀 I’m interested in competitive programming, problem solving and web development.
 - 👀 Frontend: HTML, CSS, SCSS, JavaScript, ReactJS;
 - 👀 Backend: NodeJS, Express.js, MongoDB, Python
-- 🌱 I’m currently Machine learning, Backend Development.
+- 🌱 I’m currently learning Machine learning, Frontend & Backend Development.
 - 📫 Mail Me: sakib2cse@gmail.com
 
 <!---
